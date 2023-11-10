@@ -1,0 +1,18 @@
+[
+  {
+    "dataSource": "ser\\sql2019",
+    "initialCatalog": "GVCentrisFIN"
+  },
+  {
+    "dataSource": "serverdb\\sql2022",
+    "initialCatalog": "database"
+  },
+  {
+    "dataSource": "serverdb\\sql2022",
+    "initialCatalog": "database"
+  },
+  {
+    "dataSource": "serverdb\\sql2022",
+    "initialCatalog": "database"
+  }
+]

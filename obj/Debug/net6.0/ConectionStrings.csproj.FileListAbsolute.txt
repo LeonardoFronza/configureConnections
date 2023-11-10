@@ -1,0 +1,34 @@
+D:\Projetos\GVcentrisNet6\Ferramentas\ReconfigureConnections\ConectionStrings\bin\Debug\net6.0\ConectionStrings.exe
+D:\Projetos\GVcentrisNet6\Ferramentas\ReconfigureConnections\ConectionStrings\bin\Debug\net6.0\ConectionStrings.deps.json
+D:\Projetos\GVcentrisNet6\Ferramentas\ReconfigureConnections\ConectionStrings\bin\Debug\net6.0\ConectionStrings.runtimeconfig.json
+D:\Projetos\GVcentrisNet6\Ferramentas\ReconfigureConnections\ConectionStrings\bin\Debug\net6.0\ConectionStrings.dll
+D:\Projetos\GVcentrisNet6\Ferramentas\ReconfigureConnections\ConectionStrings\bin\Debug\net6.0\ConectionStrings.pdb
+D:\Projetos\GVcentrisNet6\Ferramentas\ReconfigureConnections\ConectionStrings\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Projetos\GVcentrisNet6\Ferramentas\ReconfigureConnections\ConectionStrings\obj\Debug\net6.0\ConectionStrings.csproj.AssemblyReference.cache
+D:\Projetos\GVcentrisNet6\Ferramentas\ReconfigureConnections\ConectionStrings\obj\Debug\net6.0\ConectionStrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\GVcentrisNet6\Ferramentas\ReconfigureConnections\ConectionStrings\obj\Debug\net6.0\ConectionStrings.AssemblyInfoInputs.cache
+D:\Projetos\GVcentrisNet6\Ferramentas\ReconfigureConnections\ConectionStrings\obj\Debug\net6.0\ConectionStrings.AssemblyInfo.cs
+D:\Projetos\GVcentrisNet6\Ferramentas\ReconfigureConnections\ConectionStrings\obj\Debug\net6.0\ConectionStrings.csproj.CoreCompileInputs.cache
+D:\Projetos\GVcentrisNet6\Ferramentas\ReconfigureConnections\ConectionStrings\obj\Debug\net6.0\ConectionStrings.csproj.CopyComplete
+D:\Projetos\GVcentrisNet6\Ferramentas\ReconfigureConnections\ConectionStrings\obj\Debug\net6.0\ConectionStrings.dll
+D:\Projetos\GVcentrisNet6\Ferramentas\ReconfigureConnections\ConectionStrings\obj\Debug\net6.0\refint\ConectionStrings.dll
+D:\Projetos\GVcentrisNet6\Ferramentas\ReconfigureConnections\ConectionStrings\obj\Debug\net6.0\ConectionStrings.pdb
+D:\Projetos\GVcentrisNet6\Ferramentas\ReconfigureConnections\ConectionStrings\obj\Debug\net6.0\ConectionStrings.genruntimeconfig.cache
+D:\Projetos\GVcentrisNet6\Ferramentas\ReconfigureConnections\ConectionStrings\obj\Debug\net6.0\ref\ConectionStrings.dll
+C:\Users\Leonardo Fronza\Desktop\ConectionStrings\bin\Debug\net6.0\ConectionStrings.exe
+C:\Users\Leonardo Fronza\Desktop\ConectionStrings\bin\Debug\net6.0\ConectionStrings.deps.json
+C:\Users\Leonardo Fronza\Desktop\ConectionStrings\bin\Debug\net6.0\ConectionStrings.runtimeconfig.json
+C:\Users\Leonardo Fronza\Desktop\ConectionStrings\bin\Debug\net6.0\ConectionStrings.dll
+C:\Users\Leonardo Fronza\Desktop\ConectionStrings\bin\Debug\net6.0\ConectionStrings.pdb
+C:\Users\Leonardo Fronza\Desktop\ConectionStrings\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Leonardo Fronza\Desktop\ConectionStrings\obj\Debug\net6.0\ConectionStrings.csproj.AssemblyReference.cache
+C:\Users\Leonardo Fronza\Desktop\ConectionStrings\obj\Debug\net6.0\ConectionStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo Fronza\Desktop\ConectionStrings\obj\Debug\net6.0\ConectionStrings.AssemblyInfoInputs.cache
+C:\Users\Leonardo Fronza\Desktop\ConectionStrings\obj\Debug\net6.0\ConectionStrings.AssemblyInfo.cs
+C:\Users\Leonardo Fronza\Desktop\ConectionStrings\obj\Debug\net6.0\ConectionStrings.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo Fronza\Desktop\ConectionStrings\obj\Debug\net6.0\ConectionStrings.csproj.CopyComplete
+C:\Users\Leonardo Fronza\Desktop\ConectionStrings\obj\Debug\net6.0\ConectionStrings.dll
+C:\Users\Leonardo Fronza\Desktop\ConectionStrings\obj\Debug\net6.0\refint\ConectionStrings.dll
+C:\Users\Leonardo Fronza\Desktop\ConectionStrings\obj\Debug\net6.0\ConectionStrings.pdb
+C:\Users\Leonardo Fronza\Desktop\ConectionStrings\obj\Debug\net6.0\ConectionStrings.genruntimeconfig.cache
+C:\Users\Leonardo Fronza\Desktop\ConectionStrings\obj\Debug\net6.0\ref\ConectionStrings.dll

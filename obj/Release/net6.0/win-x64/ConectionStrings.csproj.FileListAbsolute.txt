@@ -1,0 +1,17 @@
+D:\Projetos\GVcentrisNet6\Ferramentas\ReconfigureConnections\ConectionStrings\bin\Release\net6.0\win-x64\ConectionStrings.exe
+D:\Projetos\GVcentrisNet6\Ferramentas\ReconfigureConnections\ConectionStrings\bin\Release\net6.0\win-x64\ConectionStrings.deps.json
+D:\Projetos\GVcentrisNet6\Ferramentas\ReconfigureConnections\ConectionStrings\bin\Release\net6.0\win-x64\ConectionStrings.runtimeconfig.json
+D:\Projetos\GVcentrisNet6\Ferramentas\ReconfigureConnections\ConectionStrings\bin\Release\net6.0\win-x64\ConectionStrings.dll
+D:\Projetos\GVcentrisNet6\Ferramentas\ReconfigureConnections\ConectionStrings\bin\Release\net6.0\win-x64\ConectionStrings.pdb
+D:\Projetos\GVcentrisNet6\Ferramentas\ReconfigureConnections\ConectionStrings\bin\Release\net6.0\win-x64\Newtonsoft.Json.dll
+D:\Projetos\GVcentrisNet6\Ferramentas\ReconfigureConnections\ConectionStrings\obj\Release\net6.0\win-x64\ConectionStrings.csproj.AssemblyReference.cache
+D:\Projetos\GVcentrisNet6\Ferramentas\ReconfigureConnections\ConectionStrings\obj\Release\net6.0\win-x64\ConectionStrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\GVcentrisNet6\Ferramentas\ReconfigureConnections\ConectionStrings\obj\Release\net6.0\win-x64\ConectionStrings.AssemblyInfoInputs.cache
+D:\Projetos\GVcentrisNet6\Ferramentas\ReconfigureConnections\ConectionStrings\obj\Release\net6.0\win-x64\ConectionStrings.AssemblyInfo.cs
+D:\Projetos\GVcentrisNet6\Ferramentas\ReconfigureConnections\ConectionStrings\obj\Release\net6.0\win-x64\ConectionStrings.csproj.CoreCompileInputs.cache
+D:\Projetos\GVcentrisNet6\Ferramentas\ReconfigureConnections\ConectionStrings\obj\Release\net6.0\win-x64\ConectionStrings.csproj.CopyComplete
+D:\Projetos\GVcentrisNet6\Ferramentas\ReconfigureConnections\ConectionStrings\obj\Release\net6.0\win-x64\ConectionStrings.dll
+D:\Projetos\GVcentrisNet6\Ferramentas\ReconfigureConnections\ConectionStrings\obj\Release\net6.0\win-x64\refint\ConectionStrings.dll
+D:\Projetos\GVcentrisNet6\Ferramentas\ReconfigureConnections\ConectionStrings\obj\Release\net6.0\win-x64\ConectionStrings.pdb
+D:\Projetos\GVcentrisNet6\Ferramentas\ReconfigureConnections\ConectionStrings\obj\Release\net6.0\win-x64\ConectionStrings.genruntimeconfig.cache
+D:\Projetos\GVcentrisNet6\Ferramentas\ReconfigureConnections\ConectionStrings\obj\Release\net6.0\win-x64\ref\ConectionStrings.dll

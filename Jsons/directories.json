@@ -1,0 +1,8 @@
+{
+  "Caminho": [
+    "project1\\A\\appsettings.Development.json",
+    "project2\\A\\B\\appsettings.Development.json",
+    "project3\\A\\B\\C\\appsettings.Development.json",
+    "project4\\appsettings.Development.json"
+  ]
+}
